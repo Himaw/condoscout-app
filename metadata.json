@@ -1,0 +1,8 @@
+
+{
+  "name": "CondoScout",
+  "description": "A conversational AI real estate assistant that helps you find condominiums, apartments, and hotels with precise map insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
