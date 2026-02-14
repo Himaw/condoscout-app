@@ -715,7 +715,7 @@ function App() {
                 }
                 disabled={isLoading}
                 autoComplete="off"
-                className="w-full bg-transparent border-none text-slate-800 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none focus:ring-0 px-5 md:px-7 py-4 md:py-5 min-h-[56px] md:min-h-[64px] text-base md:text-lg pr-14 md:pr-16"
+                className="w-full bg-transparent border-none text-slate-800 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none focus:ring-0 px-5 md:px-7 py-2 md:py-5 min-h-[56px] md:min-h-[64px] text-base md:text-lg pr-14 md:pr-16 placeholder:text-sm md:placeholder:text-base"
                 placeholder="e.g., 'Luxury condo in Silom under 40k...'"
               />
               <button
